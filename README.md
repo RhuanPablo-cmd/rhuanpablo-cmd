@@ -83,4 +83,4 @@ Busco oportunidades de estágio ou vaga júnior na área de desenvolvimento de s
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil!!!
