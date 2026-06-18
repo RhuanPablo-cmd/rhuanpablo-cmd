@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Rhuan Pablo
 
-<!--
-**RhuanPablo-cmd/rhuanpablo-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software apaixonado por tecnologia, programação e criação de soluções digitais.
 
-Here are some ideas to get you started:
+Tenho experiência no desenvolvimento de sistemas desktop em Python utilizando Qt para interface gráfica e SQL para gerenciamento de banco de dados. Também desenvolvo aplicações web utilizando PHP, JavaScript, HTML, CSS e MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou aprimorando minhas habilidades em desenvolvimento de software, trabalhando em projetos próprios e buscando oportunidades para crescer profissionalmente na área de tecnologia.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/RhuanPablo-cmd">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanPablo-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanPablo-cmd&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 💼 Experiência e Projetos
+
+### 🖥️ Sistemas Desktop
+- Desenvolvimento de 2 sistemas em Python utilizando Qt para interface gráfica.
+- Integração com banco de dados SQL.
+- Criação de funcionalidades para gerenciamento e automação de processos.
+
+### 🌐 Desenvolvimento Web
+- Criação de 4 sites utilizando HTML, CSS, JavaScript e PHP.
+- Desenvolvimento de painel administrativo integrado com banco de dados SQL.
+- Manipulação do DOM e criação de interfaces dinâmicas com JavaScript.
+
+### 🔧 Suporte e Infraestrutura
+- Experiência com manutenção de computadores.
+- Configuração e suporte de redes.
+- Diagnóstico e resolução de problemas técnicos.
+
+---
+
+## 📚 Atualmente Estudando
+
+- Python Avançado
+- JavaScript Moderno (ES6+)
+- APIs REST
+- Banco de Dados SQL
+- Desenvolvimento Full Stack
+
+---
+
+## 🎯 Objetivos
+
+Busco oportunidades de estágio ou vaga júnior na área de desenvolvimento de software para aplicar meus conhecimentos, adquirir experiência profissional e contribuir com projetos inovadores.
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="https://github.com/RhuanPablo-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://instagram.com/rhuan.rx" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+</div>
+
+
+---
+
+⭐ Obrigado por visitar meu perfil!
