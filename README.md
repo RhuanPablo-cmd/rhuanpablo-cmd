@@ -40,13 +40,18 @@ Busco oportunidades de estágio ou vaga júnior na área de desenvolvimento de s
 
 ## 📫 Contato
 
-<div>
+<div align="center">
   <a href="https://github.com/RhuanPablo-cmd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://instagram.com/rhuan.rx" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/rhuan-pablo-cmd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 
