@@ -32,38 +32,7 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento de software, 
   </a>
 </div>
 
----
-
-## 💼 Experiência e Projetos
-
-### 🖥️ Sistemas Desktop
-- Desenvolvimento de 2 sistemas em Python utilizando Qt para interface gráfica.
-- Integração com banco de dados SQL.
-- Criação de funcionalidades para gerenciamento e automação de processos.
-
-### 🌐 Desenvolvimento Web
-- Criação de 4 sites utilizando HTML, CSS, JavaScript e PHP.
-- Desenvolvimento de painel administrativo integrado com banco de dados SQL.
-- Manipulação do DOM e criação de interfaces dinâmicas com JavaScript.
-
-### 🔧 Suporte e Infraestrutura
-- Experiência com manutenção de computadores.
-- Configuração e suporte de redes.
-- Diagnóstico e resolução de problemas técnicos.
-
----
-
-## 📚 Atualmente Estudando
-
-- Python Avançado
-- JavaScript Moderno (ES6+)
-- APIs REST
-- Banco de Dados SQL
-- Desenvolvimento Full Stack
-
----
-
-## 🎯 Objetivos
+## Objetivos
 
 Busco oportunidades de estágio ou vaga júnior na área de desenvolvimento de software para aplicar meus conhecimentos, adquirir experiência profissional e contribuir com projetos inovadores.
 
