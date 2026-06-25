@@ -25,10 +25,13 @@ Atualmente estou aprimorando minhas habilidades em desenvolvimento de software, 
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RhuanPablo-cmd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanPablo-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanPablo-cmd&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=RhuanPablo-cmd&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/RhuanPablo-cmd">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RhuanPablo-cmd&layout=donut&langs_count=12&card_width=320&theme=tokyonight" />
   </a>
 </div>
 
